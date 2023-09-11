@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <root>
-    <player name="Melody">rokolinkon
-        <favorite type="food">Cincinnati Chili</favorite>
-        <favorite type="game">Pokémon</favorite>
-        <favorite type="show">Arcane</favorite>
+    <player name="Nick">nickbaird
+        <favorite type="food">Pasta</favorite>
+        <favorite type="instrument">Guitar</favorite>
     </player>
 </root>
