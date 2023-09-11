@@ -4,6 +4,6 @@
         <favorite type="food">Pasta</favorite>
         <favorite type="instrument">Guitar</favorite>
         <favorite type="programming_language">Java</favorite>
-        <favorite type="activity">Hiking</favorite>
+        <favorite type="activity">Testing</favorite>
     </player>
 </root>
